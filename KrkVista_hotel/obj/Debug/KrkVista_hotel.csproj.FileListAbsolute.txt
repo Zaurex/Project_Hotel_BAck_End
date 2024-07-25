@@ -1,0 +1,16 @@
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\bin\Debug\KrkVista_hotel.exe.config
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\bin\Debug\KrkVista_hotel.exe
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\bin\Debug\KrkVista_hotel.pdb
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.csproj.AssemblyReference.cache
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.Form1.resources
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.Properties.Resources.resources
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.csproj.GenerateResource.cache
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.csproj.CoreCompileInputs.cache
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.exe
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.pdb
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\bin\Debug\Guna.UI2.dll
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.csproj.CopyComplete
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.Form2.resources
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.Users_Controll.Us_AddRoom.resources
+C:\Users\Zaur\Desktop\Project\KrkVista_hotel\obj\Debug\KrkVista_hotel.Users_Controll.Us_Registration.resources
